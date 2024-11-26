@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Julien from 🇫🇷 !
 
----
-
 ## 🚀 About Me
 
 I'm a passionate **Python enthusiast** who thrives on solving complex problems and building scalable solutions. I would like to work as a **Data Engineer Freelancer**, specializing in:

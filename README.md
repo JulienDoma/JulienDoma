@@ -9,7 +9,7 @@ I'm a passionate **Python enthusiast** who thrives on solving complex problems a
 
 I like sharing my knowledges, so I've worked as a :
 - 🧑‍🏫 **Data Science Teacher** at **[Le Wagon](https://www.lewagon.com/)**
-- 💰 **Analyst Teacher** at **[Le Wagon](https://www.lewagon.com/)** & **[Adok Learning](https://www.adok-learning.com/)**
+- 💰 **Analyst Teacher** at **[Le Wagon](https://www.lewagon.com/)** & **Adok Learning**
 
 ---
 
